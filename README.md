@@ -1,3 +1,1 @@
-https://p1x.dev
-
-## i be gooning
+# i be gooning
